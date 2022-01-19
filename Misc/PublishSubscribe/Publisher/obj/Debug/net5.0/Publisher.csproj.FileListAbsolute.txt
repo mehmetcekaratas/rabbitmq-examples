@@ -1,0 +1,17 @@
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/Publisher.deps.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/Publisher.runtimeconfig.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/Publisher.runtimeconfig.dev.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/Publisher.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/ref/Publisher.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/Publisher.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.csprojAssemblyReference.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.AssemblyInfoInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.AssemblyInfo.cs
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.csproj.CoreCompileInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.csproj.CopyComplete
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/ref/Publisher.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Publisher/obj/Debug/net5.0/Publisher.genruntimeconfig.cache

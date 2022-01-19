@@ -1,0 +1,17 @@
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/Replier.deps.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/Replier.runtimeconfig.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/Replier.runtimeconfig.dev.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/Replier.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/ref/Replier.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/Replier.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.csprojAssemblyReference.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.AssemblyInfoInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.AssemblyInfo.cs
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.csproj.CoreCompileInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.csproj.CopyComplete
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/ref/Replier.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/RequestReply/Replier/obj/Debug/net5.0/Replier.genruntimeconfig.cache

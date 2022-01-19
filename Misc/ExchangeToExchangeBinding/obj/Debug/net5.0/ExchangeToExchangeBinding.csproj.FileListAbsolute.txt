@@ -1,0 +1,17 @@
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ExchangeToExchangeBinding.deps.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ExchangeToExchangeBinding.runtimeconfig.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ExchangeToExchangeBinding.runtimeconfig.dev.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ExchangeToExchangeBinding.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ref/ExchangeToExchangeBinding.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/ExchangeToExchangeBinding.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.csprojAssemblyReference.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.AssemblyInfoInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.AssemblyInfo.cs
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.csproj.CoreCompileInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.csproj.CopyComplete
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ref/ExchangeToExchangeBinding.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/ExchangeToExchangeBinding/obj/Debug/net5.0/ExchangeToExchangeBinding.genruntimeconfig.cache

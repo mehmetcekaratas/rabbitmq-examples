@@ -1,0 +1,17 @@
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/Subscriber.deps.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/Subscriber.runtimeconfig.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/Subscriber.runtimeconfig.dev.json
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/Subscriber.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/ref/Subscriber.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/Subscriber.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.csprojAssemblyReference.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.AssemblyInfoInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.AssemblyInfo.cs
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.csproj.CoreCompileInputs.cache
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.csproj.CopyComplete
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/ref/Subscriber.dll
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.pdb
+/Users/burakneis/Desktop/RabbitMQExamples/Misc/PublishSubscribe/Subscriber/obj/Debug/net5.0/Subscriber.genruntimeconfig.cache

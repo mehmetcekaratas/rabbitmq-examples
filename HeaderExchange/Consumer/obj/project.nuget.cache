@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DoP+NrysetJRP2LhxXOROj4JZ8xy3YawI+nVLEjDMVTX8AHmvWRHRYOMgBaUc0ujRcRhi7cNc3KhhtmFhltyqg==",
+  "success": true,
+  "projectFilePath": "/Users/burakneis/Desktop/RabbitMQExamples/HeaderExchange/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/burakneis/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/burakneis/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/burakneis/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
